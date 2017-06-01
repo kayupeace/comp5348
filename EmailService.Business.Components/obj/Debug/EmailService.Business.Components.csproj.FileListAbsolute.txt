@@ -1,0 +1,9 @@
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.dll
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.pdb
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.dll
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Components\obj\Debug\EmailService.Business.Components.pdb

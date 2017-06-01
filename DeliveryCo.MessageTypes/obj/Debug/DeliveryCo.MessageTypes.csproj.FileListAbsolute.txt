@@ -1,0 +1,4 @@
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb

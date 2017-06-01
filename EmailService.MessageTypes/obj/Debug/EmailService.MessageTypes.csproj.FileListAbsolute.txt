@@ -1,0 +1,4 @@
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
+C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb
