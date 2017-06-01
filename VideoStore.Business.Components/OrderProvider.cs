@@ -107,7 +107,8 @@ namespace VideoStore.Business.Components
                 OrderNumber = lDelivery.Order.OrderNumber.ToString(),  
                 SourceAddress = lDelivery.SourceAddress,
                 DestinationAddress = lDelivery.DestinationAddress,
-                DeliveryNotificationAddress = "net.tcp://localhost:9010/DeliveryNotificationService"
+                //DeliveryNotificationAddress = "net.tcp://localhost:9010/DeliveryNotificationService"
+                DeliveryNotificationAddress = "net.msmq://localhost/private/NotifyDeliveryQueueTransacted"
             });
 
             lDelivery.ExternalDeliveryIdentifier = lDeliveryIdentifier;
