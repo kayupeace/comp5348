@@ -38,3 +38,11 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\VideoSto
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.csprojResolveAssemblyReference.cache
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Entities\VideoStore.Business.Entities\bin\Debug\Common.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Entities\VideoStore.Business.Entities\obj\Debug\VideoStore.Business.Entities.pdb

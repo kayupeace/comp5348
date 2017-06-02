@@ -30,3 +30,23 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Delivery
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.csprojResolveAssemblyReference.cache
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.Net4.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.xml
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services\obj\Debug\DeliveryCo.Services.pdb

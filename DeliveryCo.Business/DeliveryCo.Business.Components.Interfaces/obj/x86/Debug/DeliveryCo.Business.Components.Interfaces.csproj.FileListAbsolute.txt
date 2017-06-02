@@ -13,3 +13,11 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Delivery
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\bin\Debug\DeliveryCo.Business.Entities.dll.config
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Business\DeliveryCo.Business.Components.Interfaces\obj\x86\Debug\DeliveryCo.Business.Components.Interfaces.pdb

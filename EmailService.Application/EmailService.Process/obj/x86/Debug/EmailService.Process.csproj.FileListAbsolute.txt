@@ -38,3 +38,31 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailSer
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.csprojResolveAssemblyReference.cache
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.Net4.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe.config
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.exe
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Process.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Services.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\bin\Debug\AutoMapper.xml
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.exe
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Application\EmailService.Process\obj\x86\Debug\EmailService.Process.pdb

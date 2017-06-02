@@ -15,8 +15,6 @@ namespace Bank.Business.Components
 
         public void Transfer(double pAmount, int pFromAcctNumber, int pToAcctNumber)
         {
-            Console.WriteLine("start transfer");
-
             using (TransactionScope lScope = new TransactionScope())
             using (BankEntityModelContainer lContainer = new BankEntityModelContainer())
             {
@@ -38,7 +36,7 @@ namespace Bank.Business.Components
                 catch (Exception lException)
                 {
                     Console.WriteLine("Error occured while transferring money:  " + lException.Message);
-                    throw;
+                    //throw;
 
                 }
             }

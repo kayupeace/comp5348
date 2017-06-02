@@ -36,7 +36,13 @@ namespace VideoStore.WebClient.Controllers
         {
             try
             {
-                pCart.SubmitOrderAndClearCart(pUser);
+                int status = pCart.SubmitOrderAndClearCart(pUser);
+                if(status == 0)
+                {
+                    pCart.Clear();
+                    pUser.UpdateUserCache();
+                    return RedirectToAction("ErrorPage");
+                }
             }
             catch(Exception e)
             {

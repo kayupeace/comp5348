@@ -7,3 +7,8 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailSer
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Business.Entities\bin\Debug\EmailService.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.Business.Entities\obj\x86\Debug\EmailService.Business.Entities.csprojResolveAssemblyReference.cache

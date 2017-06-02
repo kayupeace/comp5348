@@ -22,3 +22,8 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Common\b
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Common\bin\Debug\Common.pdb
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Common\obj\Debug\Common.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Common\obj\Debug\Common.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Common\bin\Debug\Common.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Common\bin\Debug\Common.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\Common\obj\Debug\Common.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Common\obj\Debug\Common.pdb

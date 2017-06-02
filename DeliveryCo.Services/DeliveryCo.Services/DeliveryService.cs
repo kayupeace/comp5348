@@ -28,5 +28,14 @@ namespace DeliveryCo.Services
                 DeliveryCo.Business.Entities.DeliveryInfo>(pDeliveryInfo)                
             );
         }
+
+        [OperationBehavior(TransactionScopeRequired = true)]
+        public void SubmiteDeliveryServer(DeliveryInfo pDeliveryInfo)
+        {
+            DeliveryProvider.SubmitDelivery(
+                MessageTypeConverter.Instance.Convert<DeliveryCo.MessageTypes.DeliveryInfo,
+                DeliveryCo.Business.Entities.DeliveryInfo>(pDeliveryInfo)
+            );
+        }
     }
 }

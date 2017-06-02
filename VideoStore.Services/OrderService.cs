@@ -22,15 +22,16 @@ namespace VideoStore.Services
             }
         }
 
-        public void SubmitOrder(Order pOrder)
+        public int SubmitOrder(Order pOrder)
         {
             try
             {
-                OrderProvider.SubmitOrder(
+                int status = OrderProvider.SubmitOrder(
                     MessageTypeConverter.Instance.Convert<
                     VideoStore.Services.MessageTypes.Order,
                     VideoStore.Business.Entities.Order>(pOrder)
                 );
+                return status;
             }
             catch(VideoStore.Business.Entities.InsufficientStockException ise)
             {

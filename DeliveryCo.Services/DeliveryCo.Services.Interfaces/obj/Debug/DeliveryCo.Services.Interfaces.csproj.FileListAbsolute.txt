@@ -12,3 +12,10 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Delivery
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services.Interfaces\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.Services\DeliveryCo.Services.Interfaces\obj\Debug\DeliveryCo.Services.Interfaces.pdb

@@ -34,7 +34,7 @@ namespace VideoStore.WebClient.ClientModels
             mOrderItems.Clear();
         }
 
-        public void SubmitOrderAndClearCart(UserCache pUserCache)
+        public int SubmitOrderAndClearCart(UserCache pUserCache)
         {
 
             Order lOrder = new Order();
@@ -47,9 +47,10 @@ namespace VideoStore.WebClient.ClientModels
             }
             lOrder.Total = Convert.ToDouble(ComputeTotalValue());
 
-            ServiceFactory.Instance.OrderService.SubmitOrder(lOrder);
+            int status = ServiceFactory.Instance.OrderService.SubmitOrder(lOrder);
             pUserCache.UpdateUserCache();
             Clear();
+            return status;
         }
 
         public void RemoveLine(Media pMedia)

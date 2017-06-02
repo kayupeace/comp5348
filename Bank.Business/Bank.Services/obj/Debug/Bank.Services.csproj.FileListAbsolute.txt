@@ -20,3 +20,13 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Bus
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csprojResolveAssemblyReference.cache
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\bin\Debug\Bank.Services.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\bin\Debug\Bank.Services.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\obj\Debug\Bank.Services.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\obj\Debug\Bank.Services.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Services\obj\Debug\Bank.Services.pdb

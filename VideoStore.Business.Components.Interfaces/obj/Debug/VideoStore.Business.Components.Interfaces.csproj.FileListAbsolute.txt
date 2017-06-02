@@ -44,3 +44,13 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\VideoSto
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\bin\Debug\Common.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\bin\Debug\VideoStore.Business.Entities.dll.config
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\bin\Debug\Common.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\VideoStore.Business.Components.Interfaces\obj\Debug\VideoStore.Business.Components.Interfaces.pdb

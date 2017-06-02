@@ -2,3 +2,8 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailSer
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.pdb
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.MessageTypes\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\EmailService.MessageTypes\obj\Debug\EmailService.MessageTypes.csprojResolveAssemblyReference.cache

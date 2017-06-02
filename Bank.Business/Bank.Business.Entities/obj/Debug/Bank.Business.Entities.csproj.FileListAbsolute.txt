@@ -9,3 +9,8 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Bus
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb

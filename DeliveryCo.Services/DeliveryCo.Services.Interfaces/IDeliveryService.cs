@@ -13,5 +13,9 @@ namespace DeliveryCo.Services.Interfaces
         [OperationContract]
         [TransactionFlow(TransactionFlowOption.Allowed)]
         Guid SubmitDelivery(DeliveryInfo pDeliveryInfo);
+
+        [OperationContract]
+        [TransactionFlow(TransactionFlowOption.Allowed)]
+        void SubmiteDeliveryServer(DeliveryInfo pDeliveryInfo);
     }
 }

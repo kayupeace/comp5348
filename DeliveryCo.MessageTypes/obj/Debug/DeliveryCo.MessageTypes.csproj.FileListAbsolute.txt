@@ -2,3 +2,8 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Delivery
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb

@@ -12,6 +12,6 @@ namespace VideoStore.Services.Interfaces
     {
         [OperationContract]
         [FaultContract(typeof(InsufficientStockFault))]
-        void SubmitOrder(Order pOrder);
+        int SubmitOrder(Order pOrder);
     }
 }

@@ -21,3 +21,15 @@ C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Bus
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojResolveAssemblyReference.cache
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
 C:\Users\kaibin\Documents\Visual Studio 2017\Projects\ass2\originalCode\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\kaibin\Documents\GitHub\comp5348\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb

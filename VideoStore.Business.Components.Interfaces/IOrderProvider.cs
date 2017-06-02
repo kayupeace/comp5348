@@ -8,6 +8,6 @@ namespace VideoStore.Business.Components.Interfaces
 {
     public interface IOrderProvider
     {
-        void SubmitOrder(Order pOrder);
+        int SubmitOrder(Order pOrder);
     }
 }

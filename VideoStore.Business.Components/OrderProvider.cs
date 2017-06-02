@@ -22,9 +22,9 @@ namespace VideoStore.Business.Components
             get { return ServiceLocator.Current.GetInstance<IUserProvider>(); }
         }
 
-        public void SubmitOrder(Entities.Order pOrder)
+        public int SubmitOrder(Entities.Order pOrder)
         {
-           
+            String message = "success";
             using (TransactionScope lScope = new TransactionScope())
             {
                 LoadMediaStocks(pOrder);
@@ -48,12 +48,16 @@ namespace VideoStore.Business.Components
                     catch (Exception lException)
                     {
                         SendOrderErrorMessage(pOrder, lException);
-                        throw;
+                        message = "fail";
+                        return 0;
+                        //throw;
                         //return;
                     }
                 }
             }
-            SendOrderPlacedConfirmation(pOrder);
+            if(message.Equals("success"))
+                SendOrderPlacedConfirmation(pOrder);
+            return 1;
         }
 
         private void MarkAppropriateUnchangedAssociations(Order pOrder)
